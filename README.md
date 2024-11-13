@@ -9,9 +9,10 @@ Este proyecto demuestra cómo crear componentes web reutilizables para el header
 * **Reutilización:** Los componentes se pueden utilizar en múltiples páginas.
 * **Encapsulación:** Cada componente tiene su propio estilo y lógica.
 * **Facilidad de mantenimiento:** Los cambios se reflejan en todas las instancias del componente.
+* lOS COMPONENTES USAN BEER CSS COMO CDN PARA LOS ESTILOS CSS
 
 ## Instalación y ejecución
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+   git clone [[https://github.com/tu-usuario/tu-repositorio](https://github.com/ximosa/lit-componentes).git]([https://github.com/tu-usuario/tu-repositorio](https://github.com/ximosa/lit-componentes).git)
